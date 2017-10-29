@@ -1,0 +1,78 @@
+
+.page{
+    background-color: #E2E2E2;
+    }
+.headerfont{
+  font-weight: bold;
+    font-size: 350%;  
+}
+.nazrulimage{
+    display: block;
+    text-align: center;
+    height: 35%;
+    width: 35%;
+    margin: auto;
+}
+.info{
+    position: relative;
+}
+.para{
+    position: absolute;
+    margin-right: 200px;
+    margin-left: 200px;
+    font-size: 20px;
+    text-align: justify;
+    
+}
+.para2{
+    text-align: center;
+    margin-top: 100px;
+    margin-right: 200px;
+    margin-left: 200px;
+    font-size: 30px;
+    padding: 10px, 10px, 10px, 10px;
+}
+.tb2{
+    margin-left: 550px;
+    margin-right: 200px;
+}
+td{
+    padding-top: 10px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid;
+    font-size: 18px;
+}
+th{
+    padding-right: 50px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid;
+}
+table { 
+    border-collapse: collapse; 
+}
+.tb3{
+    margin-top: 50px;
+    margin-right: 200px; 
+    margin-left: 200px;
+    margin-bottom: 100px;
+}
+.para3{
+    text-align: center;
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-bottom: 50px;
+    font-size: 20px;
+    padding: 10px, 10px, 10px, 10px;
+}
+.yt{
+    margin-right: 200px;
+    margin-left: 435px;
+    margin-bottom: 50px;
+    font-size: 20px;
+    padding: 10px, 10px, 10px, 10px;
+}
+
+
+
+
